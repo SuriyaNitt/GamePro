@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GameProActivity!</string>
+    <string name="app_name">GamePro</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_options">Options</string>
+    <string name="menu_scores">Scores</string>
+    <string name="menu_exit">Exit</string>
+    <color name="blue_color">#0000ff</color>
+    <color name="shadow">#99ff33</color>
+
+</resources>

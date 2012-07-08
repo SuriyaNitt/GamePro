@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/chip" >
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="50dp"
+        android:text="Start"
+        android:textColor="@color/blue_color"
+        android:textSize="20dp"
+        android:shadowColor="@color/shadow"
+        
+         />
+
+    <Button
+        android:id="@+id/pause"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:text="Pause"
+        android:textColor="@color/blue_color"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/resume"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:text="Resume"
+        android:textColor="@color/blue_color"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/options"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:text="Options"
+        android:textColor="@color/blue_color"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/scores"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:text="Scores"
+        android:textColor="@color/blue_color"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/blue_color"
+        android:textSize="20dp"
+        android:text="Exit" />
+
+</LinearLayout>
